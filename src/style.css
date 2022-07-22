@@ -1,0 +1,44 @@
+#wellcome_home {
+  color: #f99d1c;
+  margin-top: 70px;
+}
+
+#headr {
+  color: #f99d1c;
+}
+
+#image_home {
+  width: 50vh;
+}
+.image_up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn_fool {
+  margin-top: 60px;
+}
+
+.page-item.active .page-link {
+  z-index: 3;
+  color: #fff;
+  background-color: #f99d1c !important;
+  border-color: #f99d1c !important;
+}
+
+.page-link {
+  color: #198754 !important;
+}
+
+.list-group-item.active {
+  z-index: 2;
+  color: #fff;
+  background-color: #f99d1c !important;
+  border-color: #f99d1c !important;
+}
+
+.form-control:focus {
+  border-color: #f99d1c !important;
+  box-shadow: 0 0 0 0.25rem rgb(249 157 28 / 15%) !important;
+}
